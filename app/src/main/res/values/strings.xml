@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Driver Saathi</string>
+    <string name="a11y_desc">यह सेवा सिर्फ़ आपके बोलने पर चैट बॉक्स में ड्राफ़्ट मैसेज लिखती है। यह Send, Accept या Reject कभी नहीं दबाती।</string>
+</resources>
